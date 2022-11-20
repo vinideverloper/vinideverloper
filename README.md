@@ -1,4 +1,4 @@
-## Opa! Eu sou o Vini, atualmente sou desenvolvedor full-stack e programador. 
+## Opa! Eu sou o Vini, atualmente sou desenvolvedor front-end e programador. 
 
 <div>
   
